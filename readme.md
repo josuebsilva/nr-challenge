@@ -6,7 +6,7 @@ This is a simple project. Challenge for extract data of govern site and save on 
 
 ## How use
 
-1 - first run "composer install" for update dependencies
+1 - first run "composer install" for install or update dependencies
 
 2 - run "php artisan migrate" on terminal for make tables on database
 
