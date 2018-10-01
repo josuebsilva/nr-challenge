@@ -17,6 +17,6 @@ This is a simple project. Challenge for extract data of govern site and save on 
 
 ## Note
 
-This site its usign Camara site: http://www2.camara.leg.br/transparencia/licitacoes-e-contratos/editais for extract the data
+This site its using Camara site: http://www2.camara.leg.br/transparencia/licitacoes-e-contratos/editais for extract the data
 
 Thanks! 
